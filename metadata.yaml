@@ -1,0 +1,30 @@
+_repo: Style-and-the-Man_66422
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
+description: ''
+gutenberg_issued: '2021-09-29'
+identifiers:
+  gutenberg: '66422'
+language: en
+pgterms:marc904: https://archive.org/details/styleman00nichiala/page/26/mode/2up
+pgterms:marc905: 20210916124144nicholson
+pgterms:marc906: '1911'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by University of California libraries)
+publication_note: United States :Bobbs-Merrill Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Style and the Man
+url: http://www.gutenberg.org/ebooks/66422
